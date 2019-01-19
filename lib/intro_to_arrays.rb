@@ -32,3 +32,9 @@ def last_element_with_array_methods(last_element)
   @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   last_element = @south_east_asia.last
 end
+
+def length_of_array(array_length)
+  #@programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+  array_length = @programming_languages.length
+end
+
