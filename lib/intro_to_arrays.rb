@@ -20,5 +20,5 @@ end
 
  def last_element(str)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  str = @taylor_swift[-1]
+  str = @taylor_swift[-1] #use -1 to get the last element
 end
