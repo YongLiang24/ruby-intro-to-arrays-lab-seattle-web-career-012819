@@ -22,3 +22,23 @@ end
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   str = @taylor_swift[-1] #use -1 to get the last element
 end
+
+def first_element_with_array_methods(first_element)
+  @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  first_element = @south_east_asia.first
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
